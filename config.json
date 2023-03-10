@@ -1,0 +1,12 @@
+{
+  "deployments":[
+    {
+      "service": "nginx",
+      "version": "v1"
+    },
+    {
+      "service": "hello-app2",
+      "version": "v2"
+    }
+  ]
+}
