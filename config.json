@@ -2,11 +2,11 @@
   "deployments":[
     {
       "service": "microservice",
-      "version": "v1"
+      "version": "1.23.3"
     },
     {
       "service": "microservice",
-      "version": "v2"
+      "version": "1.22-alpine"
     }
   ]
 }
