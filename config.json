@@ -1,11 +1,11 @@
 {
   "deployments":[
     {
-      "service": "nginx",
+      "service": "microservice",
       "version": "v1"
     },
     {
-      "service": "hello-app2",
+      "service": "microservice",
       "version": "v2"
     }
   ]
