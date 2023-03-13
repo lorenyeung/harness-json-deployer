@@ -2,11 +2,11 @@
   "deployments":[
     {
       "service": "microservice",
-      "version": "1.23.3"
+      "version": "1.23.3-debian-11-r33"
     },
     {
       "service": "microservice",
-      "version": "1.22-alpine"
+      "version": "1.23.3-debian-11-r17"
     }
   ]
 }
