@@ -1,11 +1,11 @@
 {
   "deployments":[
     {
-      "service": "microservice",
+      "service": "microservice1",
       "version": "1.23.3-debian-11-r33"
     },
     {
-      "service": "microservice",
+      "service": "microservice2",
       "version": "1.23.3-debian-11-r17"
     }
   ]
