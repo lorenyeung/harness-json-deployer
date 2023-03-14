@@ -1,2 +1,2 @@
 image:
-  tag: <+matrix.data.version>
+  tag: <+env.variables.version>
