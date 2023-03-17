@@ -1,7 +1,7 @@
 {
   "deployments":[
     {
-      "service": "microservice1",
+      "service": "break",
       "version": "1.23.3-debian-11-r33"
     },
     {
