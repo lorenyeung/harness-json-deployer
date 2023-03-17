@@ -5,7 +5,7 @@
       "version": "1.23.3-debian-11-r33"
     },
     {
-      "service": "break",
+      "service": "microservice2",
       "version": "14.7.0-debian-11-r11"
     }
   ]
