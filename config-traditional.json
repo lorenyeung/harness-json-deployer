@@ -2,6 +2,11 @@
   "deployments":[
     {
       "service": "sshservice",
+      "infra": "sshawsinfra",
+      "version": "0.0.1-SNAPSHOT"
+    },
+    {
+      "service": "sshservice",
       "infra": "localmacpdcinfra",
       "version": "0.0.1-SNAPSHOT"
     }
