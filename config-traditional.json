@@ -2,7 +2,8 @@
   "deployments":[
     {
       "service": "sshservice",
-      "infra": "localmacpdcinfra"
+      "infra": "localmacpdcinfra",
+      "version": "0.0.1-SNAPSHOT"
     }
   ]
 }
