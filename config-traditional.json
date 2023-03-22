@@ -1,8 +1,8 @@
 {
   "deployments":[
     {
-      "service": "microservice1",
-      "version": "1.23.3-debian-11-r33"
+      "service": "sshservice",
+      "infra": "localmacpdcinfra"
     }
   ]
 }
