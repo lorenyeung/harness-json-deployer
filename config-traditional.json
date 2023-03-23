@@ -3,12 +3,18 @@
     {
       "service": "sshservice",
       "infra": "sshawsinfra",
-      "version": "0.0.1-SNAPSHOT"
+      "env": "sshdev",
+      "version": "0.0.1-SNAPSHOT",
+      "artifact":"",
+      "pipeline": ""
     },
     {
       "service": "sshservice",
       "infra": "sshawspdcinfra",
-      "version": "0.0.1-SNAPSHOT"
+      "env": "sshdev",
+      "version": "0.0.1-SNAPSHOT",
+      "artifact": "",
+      "pipeline": ""
     }
   ]
 }
