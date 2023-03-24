@@ -7,14 +7,6 @@
       "version": "0.0.1-SNAPSHOT",
       "artifact":"",
       "pipeline": "CD_trigger_via_pipeline_traditional"
-    },
-    {
-      "service": "sshservice",
-      "infra": "sshawspdcinfra",
-      "env": "sshdev",
-      "version": "0.0.1-SNAPSHOT",
-      "artifact": "",
-      "pipeline": ""
     }
   ]
 }
