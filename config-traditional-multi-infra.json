@@ -2,7 +2,7 @@
   "deployments":[
     {
       "service": "sshservicetwo",
-      "infra": ["sshawspdcinfra","sshawsinfra"],
+      "infra": [{"identifier","sshawspdcinfra"},{"identifier","sshawsinfra"}],
       "env": "sshdev",
       "version": "0.0.1-SNAPSHOT",
       "artifact":"",
