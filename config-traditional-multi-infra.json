@@ -1,0 +1,12 @@
+{
+  "deployments":[
+    {
+      "service": "sshservicetwo",
+      "infra": ["sshawspdcinfra","sshawsinfra"],
+      "env": "sshdev",
+      "version": "0.0.1-SNAPSHOT",
+      "artifact":"",
+      "pipeline": "CD_trigger_via_pipeline_traditional"
+    }
+  ]
+}
