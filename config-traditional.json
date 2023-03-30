@@ -5,7 +5,7 @@
       "infra": "sshawspdcinfra",
       "env": "sshdev",
       "version": "0.0.1-SNAPSHOT",
-      "artifact":"",
+      "artifact":"demo-0.0.1-SNAPSHOT.jar",
       "pipeline": "CD_trigger_via_pipeline_traditional"
     },
     {
@@ -13,7 +13,7 @@
       "infra": "sshawsinfra",
       "env": "sshdev",
       "version": "0.0.1-SNAPSHOT",
-      "artifact":"",
+      "artifact":"demo-0.0.1-SNAPSHOT.jar",
       "pipeline": "CD_trigger_via_pipeline_traditional"
     }
   ]
